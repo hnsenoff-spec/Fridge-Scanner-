@@ -1,0 +1,9 @@
+{
+  "name": "Recipe Rescue",
+  "description": "Smart leftover meal planner that identifies ingredients from photos, suggests recipes to reduce waste, and helps you shop efficiently.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
